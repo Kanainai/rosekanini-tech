@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background: black;
+  font-family: Tahoma, sans-serif;
+  font-size: 26px;
+  color: white;
+}
+
+h1 {
+  color: green;
+}
+
+p {
+  margin-left: 50px;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid yellow;
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: green;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
