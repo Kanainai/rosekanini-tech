@@ -1,0 +1,2 @@
+A small company requires that all pages in their web site have a black background, Font size 26, Font family Tahoma, H1 color green, Paragraph margin-left, 50px, Hr. yellow, all links be color blue and all visited links be color green.  In addition a pop up box should welcome any visitor and ask him/her to enter their name before proceeding. The name is displayed on the webpage with a welcome message.
+Design a sample solution for the company 
